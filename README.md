@@ -1,2 +1,2 @@
 # Project-Backend
-this is the  repository for the junior power group project 
+This is the repository for the Backend of the group project
